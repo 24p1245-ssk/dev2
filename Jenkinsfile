@@ -8,7 +8,7 @@ pipeline
       {
         steps
         {
-          echo ('hello1')
+          echo 'hello1'
         }
       }
 
@@ -16,7 +16,7 @@ pipeline
       {
         steps
         {
-          echo ('world1')
+          echo 'world1'
         }
       }
     }
