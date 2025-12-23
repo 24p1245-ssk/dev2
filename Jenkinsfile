@@ -8,7 +8,7 @@ pipeline
       {
         steps
         {
-          echo 'hello1'
+          echo ('hello1')
         }
       }
 
